@@ -272,7 +272,7 @@ const CreateEvent = () => {
             </div>
 
             <div>
-              <h2 className="font-bold"> McDonald's </h2>
+              <h2 className="font-bold"> McDonald &#39;s </h2>
             </div>
 
             <div className="flex justify-between items-center gap-x-2">
