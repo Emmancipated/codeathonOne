@@ -337,15 +337,15 @@ const CreateEvent = () => {
                 </div>
               </div>
 
-              <div className=" flex gap-x-3">
+              <div className=" block sm:flex gap-x-3">
                 <input
                   type="text"
                   name=""
                   id=""
-                  className=" rounded-[5px] border border-[#3A35414A] outline-none text-[10px] text-[#3A354161] px-3"
+                  className=" rounded-[5px] border border-[#3A35414A] outline-none text-[10px] text-[#3A354161] px-3 mb-1 h-10 sm:mb-0"
                   placeholder="Procurar Usuários"
                 />
-                <Button className=" bg-[#2684FF] text-white rounded-[5px] text-[10px]">
+                <Button className=" bg-[#2684FF] text-white rounded-[5px] text-[10px] mb-1 block sm:inline-block sm:mb-0">
                   ADD USER
                 </Button>
                 <Button
